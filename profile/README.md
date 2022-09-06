@@ -1,8 +1,8 @@
 <p align="center">
-  <a href="#"> <img src="welcome.svg"/> </a>
+  <a href="#"> <img src="https://raw.githubusercontent.com/SamirPaulb/.github/main/welcome.svg"/> </a>
 </p>
 
 
 <p align="center">
-  <a href="#"> <img src="samirpaul.svg"/></a>
+  <a href="#"> <img src="https://raw.githubusercontent.com/SamirPaulb/.github/main/samirpaul.svg"/></a>
 </p>
